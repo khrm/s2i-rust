@@ -1,4 +1,4 @@
-Rust source-to-image
+Rust source-to-image for osio
 ====================
 
 This repository contains the source for building Rust applications as reproducible Docker images using [source-to-image](https://github.com/openshift/source-to-image).
